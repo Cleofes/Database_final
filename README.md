@@ -1,14 +1,18 @@
 # Database_final
 Repository for the final project of the database and pattern discovery class
 
+## Update status
+This page will be updated as this serves as the initial framework.
 
 ## Languages used
 - Pythons3
 - PHP & HTML
 - MySQL
 
+
 ## Description
-  - This project looks to create a database consisting of the updated S. aureus JE-2 genome as part of the BIOI4870820.1211 class.
+  - This project looks to create a database consisting of the updated S. aureus JE-2 genome as part of the BIOI4870820.1211 class final project.
+
 
 ## Search option examples (genes)
   - B7H15_07365
@@ -18,7 +22,8 @@ Repository for the final project of the database and pattern discovery class
   - B7H15_00015
   - B7H15_00020
   - B7H15_00025
+ 
+ ## Preparation of annotated genes
+ A csv file should be used with the python program as it prepares MySQL insert statements for each gene. Duplicate genes are removes in the process. 
 
-
-![image](https://user-images.githubusercontent.com/59699291/115483732-f5197a80-a216-11eb-9897-116a52ef9c7d.png)
 
