@@ -25,5 +25,8 @@ This page will be updated as this serves as the initial framework.
  
  ## Preparation of annotated genes
  A csv file should be used with the python program as it prepares MySQL insert statements for each gene. Duplicate genes are removes in the process. 
+ 
+ ## License
+ MIT license
 
 
