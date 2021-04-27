@@ -2,7 +2,7 @@
 Repository for the final project of the database and pattern discovery class
 
 ## Update status
-This page will be updated as this serves as the initial framework.
+This page will be updated as this serves as the initial test versions of the custom database.
 
 ## Languages used
 - Pythons3
