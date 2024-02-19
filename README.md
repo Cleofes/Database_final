@@ -1,17 +1,17 @@
 # Database_final
-Repository for the final project of the database and pattern discovery class
+Repository for a JE-2 Staphylococcus aureus database.
 
 ## Update status
 This page will be updated as this serves as the initial test versions of the custom database.
 
 ## Languages used
-- Pythons3
+- Python3
 - PHP & HTML
 - MySQL
 
 
 ## Description
-  - This project looks to create a database consisting of the updated S. aureus JE-2 genome as part of the BIOI4870820.1211 class final project.
+  - This project looks to create a database consisting of the updated S. aureus JE-2 genome.
 
 
 ## Search option examples (genes)
